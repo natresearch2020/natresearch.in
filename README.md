@@ -33,3 +33,25 @@
     </footer>
 </body>
 </html>
+# My Website
+
+Welcome to our website! Here you can learn more about us and the services we offer.
+
+## Menu
+
+- [Home](#home)
+- [About Us](#about-us)
+- [Services Offered](#services-offered)
+
+## Home
+
+This is the landing page of our website. Feel free to explore the rest of the menu options.
+
+## About Us
+
+Learn about our company and the people behind it. Our history, mission, and values.
+
+## Services Offered
+
+Discover the range of services we provide to our clients. From consulting to implementation, we've got you covered.
+
