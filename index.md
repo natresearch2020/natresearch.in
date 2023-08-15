@@ -1,6 +1,3 @@
-
- 
-</head>
 <body>
     <header>
         <h1>Welcome to National Research Consultancy</h1>
