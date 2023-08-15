@@ -4,7 +4,7 @@
 </head>
 <body>
     <header>
-        ![LOGO final 2-Recovered])<h1>Welcome to National Research Consultancy</h1>
+        !<h1>Welcome to National Research Consultancy</h1>
     </header>
     <nav>
         <ul>
