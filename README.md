@@ -24,9 +24,9 @@
         <section>
             <h2>Services</h2>
             <ul>
-                <li>Web Design</li>
-                <li>Graphic Design</li>
-                <li>Content Creation</li>
+                <li>Thesis Writing</li>
+                <li>Copy Editing</li>
+                <li>Publishing</li>
             </ul>
         </section>
     </main>
