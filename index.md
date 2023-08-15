@@ -33,8 +33,7 @@
                 <li>Statistical Tools</li>
                   <li>Publication of Research papers</li>
                 <li>Publication of Thesis</li>
-                <liPublication of Books/li>
-             </section>
+        </section>
         <section>
             <h2>Contact</h2>
               <ul>
