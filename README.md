@@ -4,7 +4,8 @@
 </head>
 <body>
     <header>
-        !<h1>Welcome to National Research Consultancy</h1>
+      [LOGO final 2-Recovered.png](https://github.com/natresearch2020/natresearch.in/blob/abb681329482ef550d17d66403e76465b86558a2/LOGO%20final%202-Recovered.png<h1)  >
+          Welcome to National Research Consultancy</h1>
     </header>
     <nav>
         <ul>
