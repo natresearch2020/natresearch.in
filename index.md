@@ -31,9 +31,7 @@
                 <li>Copy Editing of Thesis and Research Paper</li>
                 <li>Plagiarism Removal</li>
                   <li>Literature Review</li>
-                <li>Methodologyn</li>
-                <li>CTopic Selection</li>
-                  <li>Data Analysis</li>
+                   <li>Data Analysis</li>
                 <li>Sample Collection</li>
                 <li>Statistical Tools</li>
                   <li>Publication of Research papers</li>
