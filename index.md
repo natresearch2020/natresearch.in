@@ -1,8 +1,7 @@
-<body>
-    <header>
-        <h1>Welcome to National Research Consultancy</h1>
-    </header>
-    <nav>
+<h1 align="center">
+  <span style="color: #8a2be2; font-weight: bold;">National Research Consultancy</span>
+</h1>
+
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
