@@ -69,8 +69,6 @@
       <li>E Mail: info@natresearch.in</li>
                 <li>Phone: +91 94488331374</li>
     <a href="brochure.pdf" class="button">Download Brochure</f>
-  </div>
-</body>
-</html>
 
-            
+
+    
