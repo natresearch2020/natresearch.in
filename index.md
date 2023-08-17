@@ -75,7 +75,7 @@
 <body>
 
 
-<!-- [https://github.com/natresearch2020/natresearch.in/blob/041f1a38e4c66390d6f5495cfd79b18862dcc31d/Fyer.pdf)https://github.com/natresearch2020/natresearch.in/blob/041f1a38e4c66390d6f5495cfd79b18862dcc31d/Fyer.pdf]
+ <!-- https://github.com/natresearch2020/natresearch.in/blob/041f1a38e4c66390d6f5495cfd79b18862dcc31d/Fyer.pdf)]
 
     <button>Download Broucheure</button>
 </a>
