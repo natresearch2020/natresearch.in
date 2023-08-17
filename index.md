@@ -18,7 +18,7 @@
     padding: 10px 20px;
   }
   header h1 { font-size: 36px; }
-  .logo {LOGO final 2-Recovered.png, https://github.com/natresearch2020/natresearch.in/blob/2dca464e3ac0261b451af84cf26d1dd1352ac412/LOGO%20final%202-Recovered.png width: 50px;height: 50px;margin-left: 20px;  }
+  .logo {LOGO final 2-Recovered.png, https://github.com/natresearch2020/natresearch.in/blob/2dca464e3ac0261b451af84cf26d1dd1352ac412/LOGO%20final%202-Recovered.png width:50px;height: 50px;margin-left: 20px;  }
   nav {   text-align: right;  }
   nav a {color: #FF00FF; font-weight: bold;text-decoration: none; margin: 0 10px; } .section { padding: 50px;}
   .section h2 {font-size: 24px;margin-bottom: 20px; }
@@ -68,7 +68,20 @@
     <h2>Contact</h2>
       <li>E Mail: info@natresearch.in</li>
                 <li>Phone: +91 94488331374</li>
-    <a href="brochure.pdf" class="button">Download Brochure</f>
+   <!DOCTYPE html>
+<html>
+<head>
+  </head>
+<body>
+
+
+<!-- [Replace 'file_url_here](https://github.com/natresearch2020/natresearch.in/blob/041f1a38e4c66390d6f5495cfd79b18862dcc31d/Fyer.pdf)' with the actual URL of the file you want to be downloaded -->
+<a href="file_url_here" download>
+    <button>Download Broucheure </button>
+</a>
+
+</body>
+</html>
 
 
     
