@@ -37,7 +37,7 @@
 </head>
 <body>
   <header>
-    <h1>National Research Consultancyy</h1>
+    <h1>National Research Consultancy</h1>
     <img src="logo.png" alt="Logo" class="logo">
   </header>
   <nav>
@@ -68,7 +68,7 @@
     <h2>Contact</h2>
       <li>E Mail: info@natresearch.in</li>
                 <li>Phone: +91 94488331374</li>
-    <a href="brochure.pdf" class="button">Download Brochure</ahttps://github.com/natresearch2020/natresearch.in/blob/44e1844ee64c530154f2867fa0bb23d9f8f0838d/Fyer.pdf>
+    <a href="brochure.pdf" class="button">Download Brochure</f>
   </div>
 </body>
 </html>
