@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YNational Research Consultancy</title>
+<title>National Research Consultancy</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -69,7 +68,7 @@
     <h2>Contact</h2>
       <li>E Mail: info@natresearch.in</li>
                 <li>Phone: +91 94488331374</li>
-    <a href="brochure.pdf" class="button">Download Brochure</a>
+    <a href="brochure.pdf" class="button">Download Brochure</ahttps://github.com/natresearch2020/natresearch.in/blob/44e1844ee64c530154f2867fa0bb23d9f8f0838d/Fyer.pdf>
   </div>
 </body>
 </html>
