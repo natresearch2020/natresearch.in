@@ -77,7 +77,7 @@
 
 <!-- [Replace 'file_url_here](https://github.com/natresearch2020/natresearch.in/blob/041f1a38e4c66390d6f5495cfd79b18862dcc31d/Fyer.pdf)' with the actual URL of the file you want to be downloaded -->
 <a href="file_url_here" download>
-    <button>Download Broucheure </button>
+    <button>Download Broucheure</button>
 </a>
 
 </body>
