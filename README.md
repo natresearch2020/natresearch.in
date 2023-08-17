@@ -2,10 +2,14 @@
   <span style="color: #8a2be2; font-weight: bold;">National Research Consultancy</span>
 </h1>
        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+         h1 align="center">
+  <span style="color: #8a2be2; font-weight: bold;">Your Header Text</span>
+</h1>
+<ul style="list-style-type: none; display: flex; justify-content: center; padding: 0;">
+  <li style="margin: 0 10px;"><a href="#section1">About Us</a></li>
+  <li style="margin: 0 10px;"><a href="#section2">Services offered</a></li>
+  <li style="margin: 0 10px;"><a href="#section3">Conatct</a></li>
+</ul>
         </ul>
     </nav>
     <main>
@@ -28,7 +32,7 @@
                 <li>Statistical Tools</li>
                   <li>Publication of Research papers</li>
                 <li>Publication of Thesis</li>
-       <section>
+      <section>
             <h2>Contact</h2>
               <ul>
                 <li>E Mail: info@natresearch.in</li>
