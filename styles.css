@@ -1,38 +1,89 @@
-body {
-    font-family: Arial, sans-serif;
+/* Reset default margin and padding */
+body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
+/* Set white background */
+body {
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Style header and navigation */
 header {
     background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.menu {
+    list-style: none;
     display: flex;
 }
 
-nav li {
+.menu li {
     margin-right: 20px;
 }
 
-nav a {
+.menu a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style headings */
+h1, h2 {
+    color: #9400D3; /* Violet color */
+    font-weight: bold;
+}
+
+/* Style company logo */
+.company-logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+/* Style sections */
+section {
+    padding: 40px;
+}
+
+/* Background simple animation */
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    100% { background-position: 100% 50%; }
+}
+
+/* Apply animation to the body */
+body {
+    animation: gradientAnimation 10s ease infinite;
+    background: linear-gradient(45deg, #FFC0CB, #87CEEB, #FFC0CB, #87CEEB);
+    background-size: 400% 400%;
+}
+
+/* Style download button */
+.download-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+/* Style PDF link */
+.pdf-link {
+    color: #333;
     text-decoration: none;
 }
 
-main {
-    padding: 20px;
+.pdf-link:hover {
+    text-decoration: underline;
 }
 
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-}
